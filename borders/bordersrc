@@ -1,0 +1,13 @@
+#!/bin/bash
+
+source "$HOME/.config/colors.sh"
+
+options=(
+	radius=14
+	width=4.0
+	hidpi=off
+	active_color=$GLASS_LIGHT
+	inactive_color=$BORDER
+)
+
+borders "${options[@]}"

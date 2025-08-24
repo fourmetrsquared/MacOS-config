@@ -1,0 +1,41 @@
+# Auto-generated from Universal Glass Theme
+# Generated on: Sun Aug 24 02:46:55 +03 2025
+
+[colors.primary]
+background = "#303030"
+foreground = "#FFFFFF"
+
+[colors.normal]
+black   = "#202020"
+red     = "#E57373"
+green   = "#8BC34A"
+yellow  = "#FFB74D"
+blue    = "#5EB0FF"
+magenta = "#CF5AF2"
+cyan    = "#5AC8FF"
+white   = "#EEEEEE"
+
+[colors.bright]
+black   = "#727272"
+red     = "#E57373"
+green   = "#8BC34A"
+yellow  = "#FFD180"
+blue    = "#70BFFF"
+magenta = "#BF6FF2"
+cyan    = "#80D0FF"
+white   = "#FFFFFF"
+
+[colors.cursor]
+text = "#202020"
+cursor = "#FFFFFF"
+
+[colors.selection]
+text = "#202020"
+background = "#FFFFFF"
+
+[colors.search]
+matches = { foreground = "#FFFFFF", background = "#FFB74D" }
+
+[colors.hints]
+start = { foreground = "#FFFFFF", background = "#FFB74D" }
+end = { foreground = "#FFFFFF", background = "#303030" }
