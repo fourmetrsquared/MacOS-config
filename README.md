@@ -5,12 +5,12 @@ A comprehensive collection of scripts, configurations, and documentation for set
 
 ## 🚀 Features :
 
-**System Configuration: Optimized settings for development workflows
+  ###System Configuration: Optimized settings for development workflows
 Development Environment: Complete toolchain setup for various programming languages
 Application Management: Scripts to install essential applications and tools
 Customization: Themes, fonts, and UI enhancements for a personalized experience
 Automation: Scripts to automate repetitive setup tasks
-Backup & Sync: Configuration files and settings for easy migration between machines**
+Backup & Sync: Configuration files and settings for easy migration between machines###
 
 ## 🌆 Screenshots :
 <div align=center>
