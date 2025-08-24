@@ -8,5 +8,7 @@
 ```bash
 git clone https://github.com/fourmetrsquared/MacOS-config.git
 cd MacOS-config
+chmod +x *.sh
+./install.sh
 ```
 
